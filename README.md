@@ -2,6 +2,10 @@
 
 This is the repository for the Float Rates application.
 
+## 📷 Screenshots
+
+![Float Rates Screenshot](github/print.png)
+
 ## 🛠️ Technologies Used
 
 - **React Native**: A framework for building native apps using React.
